@@ -1,3 +1,4 @@
+theme: midnight
 # crouton
 the first ever
 ## fun fact
